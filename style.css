@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+.avatar {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.avatar img {
+    width: 180px;
+    border-radius: 50px;
+}
+
+h1 {
+    color: white
+}
+
+h2 {
+    font-family: 'Comfortaa', cursive;
+    font-size: medium;
+}
+
+h3 {
+    font-style: italic;
+
+}
+
+.box { 
+   width: 900px;
+   height: 95vh;
+   background-color: rgba(87, 197, 241, 0.63);
+   margin: 0 auto;
+   border-radius: 10px;
+   text-align: center;
+}
+
+.text {
+    width: 150px;
+    text-align: left;
+    font-style: italic;
+}
+
+.box1 {
+    background-image: url(https://webenezer.com.br/wp-content/uploads/2017/09/web-designer-pune-background-webenezer.jpg);
+    
+}
+
+.skills {
+    margin-left: 25px;
+    text-align: left;
+}
